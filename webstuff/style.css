@@ -1,0 +1,20 @@
+.buttons{
+    width: 600px;
+    height:600px;
+    margin: left;
+}
+nav {
+    float: left;
+    width: 267px;
+    height: 627px;
+    background-color: rgb(102, 69, 109);
+    padding: 20px;
+}
+
+article {
+    float: left;
+    padding: 20px;
+    width: 40%;
+    background-color: rgb(59, 50, 56);
+    height: 627px; 
+  }
